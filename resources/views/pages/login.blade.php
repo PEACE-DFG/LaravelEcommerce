@@ -12,7 +12,7 @@
     <div class="wrapper">
         <span class="bg-animate"></span>
         <div class="form-box login">
-            <h2>Register</h2>
+            <h2>Login</h2>
             <form action="">
                 <div class="input-box">
                     <input type="text" required>
@@ -20,26 +20,21 @@
                     <i class="fa-solid fa-user"></i>
                 </div>
                 <div class="input-box">
-                    <input type="email" required>
-                    <label for="">Email</label>
-                    <i class="fa-solid fa-envelope"></i>
-                </div>
-                <div class="input-box">
                     <input type="password" required>
                     <label for="">Password</label>
                     <i class="fa-solid fa-lock"></i>
                 </div>
 
-                <button class="btn">Register</button>
+                <button class="btn">Login</button>
                 <div class="logreg-link">
-                    <p>Already have an Account? <a href="login" class="register-link"> Sign In</a> </p>
+                    <p>Don't have an Account? <a href="register" class="register-link"> Sign Up</a> </p>
                 </div>
             </form>
         </div>
         <div class="info-text login">
-            <h2>Please Register</h2>
+            <h2>Welcome Back!</h2>
             <p>
-                Create an account with us
+                Login to view our awesome products!
             </p>
         </div>
     </div>
